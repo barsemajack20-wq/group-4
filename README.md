@@ -179,6 +179,17 @@ body {
   .right {
     text-align: left;
   }
+}.right h1 {
+  font-size: 40px;
+  color: #1f1f1f;
+  font-weight: 700;
+}
+
+.right p {
+  margin-top: 20px;
+  color: #555;
+  line-height: 1.7;
+  font-size: 15px;
 }
 </style>
 </head>
